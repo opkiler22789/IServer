@@ -1,0 +1,42 @@
+---
+#Плагин создал opkiler22789 если будут сбои пишем --> http://infomcpe.ru/threads/iserver.492/
+#ОБЕЗАТЕЛЬНО ПОЛСЕ ЗНАКА ":" СТАВИТЬ ПРОБЕЛ и наче плагин откажиться работать
+vkgroup: http://vk.com/plugin_pe
+website: http://infomcpe.ru
+nameserver: §eНазвание сервера
+donate1: §dКреатив§c - §b100р
+donate2: §dVIP§c - §b50р
+donate3: §dПремиум§c - §b200р
+donate4: §dАдминистратор§c - §b250р
+donate5: §dМодератор§c - §b300р
+donate6: §dГл.Администратор§c - §b400р
+donate7: §dЗам. Создателя§c - §b500р
+donate8: §dСоздатель §c - §b600р
+   #Ниже настройки правил
+rules1:
+rules2: узнать что плагин написал opkiler22789
+rules3: всегда заходить в группу vk.com/plugin_pe
+rules4: не забывать о русском форуме http://infomcpe.ru
+rules5: и не забыть дописать правила ☺
+rules6:
+rules7:
+rules8:
+#info
+info1: инфа
+info2:
+info3:
+info4:
+info5:
+info6:
+info7:
+info8:
+#staff
+staff1: ник - Основатель
+staff2: ник - Админ
+staff3:
+staff4:
+staff5:
+staff6:
+staff7:
+staff8:
+...
