@@ -13,12 +13,11 @@ before_script:
  - pecl install channel://pecl.php.net/weakref-0.3.2
  - echo | pecl install channel://pecl.php.net/yaml-2.0.0RC8
  - git clone --depth=50 --branch=php7 https://github.com/ClearSkyTeam/ClearSky.git
- - mkdir -p ClearSky/plugins/GuessTheNumber-src
- - cp -rf SalmonGER/GuessTheNumber/src ClearSky/plugins/GuessTheNumber-src
- - cp -rf SalmonGER/GuessTheNumber/resources ClearSky/plugins/GuessTheNumber-src
- - cp -rf SalmonGER/GuessTheNumber/plugin.yml ClearSky/plugins/GuessTheNumber-src
- - cp -rf SalmonGER/GuessTheNumber/LICENSE ClearSky/plugins/GuessTheNumber-src
- - cp -rf SalmonGER/GuessTheNumber/build.php ClearSky/
+ - mkdir -p ClearSky/plugins/IServer-src
+ - cp -rf opkiler22789/IServer/src ClearSky/plugins/IServer-src
+ - cp -rf opkiler22789/IServer/resources ClearSky/plugins/IServer-src
+ - cp -rf opkiler22789/IServer/plugin.yml ClearSky/plugins/IServer-src
+ - cp -rf opkiler22789/IServer/build.php ClearSky/
  - cd ClearSky/plugins/
  - wget -O DevTools.phar https://github.com/PocketMine/DevTools/releases/download/v1.11.0/DevTools_v1.11.0.phar
  - cd /home/travis/build/ClearSky
